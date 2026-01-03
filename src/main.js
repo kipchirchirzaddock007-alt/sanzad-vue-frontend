@@ -8,3 +8,4 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 createApp(App)
   .use(router)
   .mount('#app');
+// trigger-netlify-deploy
